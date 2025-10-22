@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Dashboard Project
 
-This project is an interactive **Excel dashboard** 📊 analyzing coffee sales data. It demonstrates key analytical skills, including Pivot Tables, Slicers, Conditional Formatting, and KPI calculation.  
-The goal is to create an interactive tool that makes data easy to explore 🚀.
+This project is an interactive **Excel dashboard** analyzing coffee sales data. It demonstrates key analytical skills, including Pivot Tables, Slicers, Conditional Formatting, and KPI calculation.  
+The goal is to create an interactive tool that makes data easy to explore.
 
 ---
 
